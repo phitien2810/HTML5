@@ -1,0 +1,22 @@
+#inputYourName{
+  /*
+    color:#333333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:68px;
+    font-weight:bold;
+    text-align:left;
+    outline:none;
+    padding-left:38px; 
+  */
+
+  font-size: 68px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding:38px 18px 18px 18px;
+  border-width: 1px;
+  border-radius:4px;
+  box-shadow: '-1px -1px 0px #000000';
+  text-align: left;
+  outline: auto;
+  outline-style: inset;
+}
